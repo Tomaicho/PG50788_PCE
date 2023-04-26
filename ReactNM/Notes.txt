@@ -1,0 +1,8 @@
+$ npx create-reat-app client
+$ npm i react-router-dom local storage match-sorter sort-by
+$ npm i @mui/material @emotion/reat @emotion/styled
+$ npm i react-redux
+$ npm i axios
+----------------
+NodeMongo
+$ npm i cols
